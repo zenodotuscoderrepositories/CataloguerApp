@@ -16,4 +16,4 @@ permalink: /
 
 ## Εφαρμογή καταλόγου
 
-This is the online documentation for the [**Cataloguer App** project](https://github.com/zenodotuscoderrepositories/CataloguerApp) by [Zenodotus Coder](https://www.zenodotuscoder.com/).
+This is the online documentation for the [**Cataloguer** app](https://github.com/zenodotuscoderrepositories/CataloguerApp) by [Zenodotus Coder](https://www.zenodotuscoder.com/).
