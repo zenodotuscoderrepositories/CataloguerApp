@@ -1,0 +1,16 @@
+title:        CataloguerApp.com
+name:         CataloguerApp.com
+description:  CataloguerApp.com
+author:       Zenodotus Coder
+author_email: zenodotuscoder@gmail.com
+email:        zenodotuscoder@gmail.com
+url:          "https://www.cataloguerapp.com/"
+includes_dir: .
+layouts_dir:  cataloguerapp.com/layouts
+exclude:      [
+               CNAME,
+               LICENSE,
+               README.md,
+               cataloguerapp.com/layouts/*,
+               cataloguerapp.com/README.md
+              ]
